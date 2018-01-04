@@ -7,4 +7,9 @@
 //.kts-file
 //--> no class etc.
 
-print("Hello World")
+println("Base-URL?")
+
+val baseurlInput: String? = readLine();
+input?.let {println(it)}
+
+
