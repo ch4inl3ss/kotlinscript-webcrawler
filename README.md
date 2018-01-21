@@ -6,7 +6,7 @@
 ### Kotlinscript
 - Skripting in Kotlin
 - https://kotlinlang.org/docs/tutorials/command-line.html 
-- <pre>kotlinc -script &st;skriptname&gt;.kts</pre> to run
+- <pre>kotlinc -script &lt;scriptname&gt;.kts</pre> to run
 - show example! (start-with-kotlinscript.kts)
 
 
@@ -24,12 +24,13 @@
 
 #### why?
 - #! -Shebang (https://en.wikipedia.org/wiki/Shebang)
-- makes scripts executable with <pre>./</pre>
+- makes scripts executable with <pre>./&lt;scriptname&gt;</pre>
 - less recompiling
 - when you run a kotlin-script it gets recompiled everytime
 - kscript does a MD5-Checksum to compare if the script stayed the same before compiling
 - Dependencies. I wanted an easy way to use some dependencies in my script.
 - show example! (kscript.kts)
+- import functionality for other kotlin-files
 
 ### Lets Crawl!
 - easy to crawl Meme-Site 
