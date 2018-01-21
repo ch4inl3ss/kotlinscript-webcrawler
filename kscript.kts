@@ -4,7 +4,7 @@
 
 import com.github.kittinunf.fuel.httpGet
 
-val baseUrl = "http://bitcoin.de"
+val baseUrl = "https://kotlinlang.org/"
 
 println(baseUrl)
 val test = baseUrl.httpGet().responseString()
