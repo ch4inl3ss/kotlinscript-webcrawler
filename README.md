@@ -6,7 +6,7 @@
 ### Kotlinscript
 - Skripting in Kotlin
 - https://kotlinlang.org/docs/tutorials/command-line.html 
-- <pre>kotlinc -script <skriptname>.kts</pre> to run
+- <pre>kotlinc -script &st;skriptname&gt;.kts</pre> to run
 - show example! (start-with-kotlinscript.kts)
 
 
@@ -33,3 +33,4 @@
 
 ### Lets Crawl!
 - easy to crawl Meme-Site 
+- goal is to get all images 
