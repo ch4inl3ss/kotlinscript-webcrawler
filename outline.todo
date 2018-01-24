@@ -1,0 +1,16 @@
+A Webcrawler in Kotlinscript:
+
+1. What is Kotlinscript?
+	-Scripting for Kotlin
+	-kts-file
+	-kotlinc -script *kts
+	
+
+2. Webcrawler
+	-what do i mean?
+	-many different definitions
+	-generally take a url and parse the source of the site
+	-do sth with that
+
+
+3. 

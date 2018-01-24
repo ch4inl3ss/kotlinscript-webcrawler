@@ -21,6 +21,7 @@
 - Awesome! 
 - https://github.com/holgerbrandl/kscript
 - https://www.youtube.com/watch?v=cOJPKhlRa8c&t= : Session about kscript @KotlinConf 2017
+- https://github.com/Kotlin/KEEP/issues/75 - Kotlin Scripting Support
 
 #### why?
 - #! -Shebang (https://en.wikipedia.org/wiki/Shebang)
